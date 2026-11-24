@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se utilizar este software, cite-o conforme os metadados abaixo."
+title: "XPS Virtual Lab"
+type: software
+authors:
+  - family-names: "Pereira Filho"
+    given-names: "Renato Dutra"
+    affiliation: "Universidade Federal do Rio Grande (FURG)"
+version: "1.0-rc2"
+license: BSD-3-Clause
+repository-code: "https://github.com/rdpf/xps-virtual-lab"
+abstract: "Laboratório virtual de espectroscopia de fotoelétrons excitados por raios X para ensino, simulação e interpretação espectral."
+keywords:
+  - XPS
+  - espectroscopia
+  - engenharia química
+  - laboratório virtual
